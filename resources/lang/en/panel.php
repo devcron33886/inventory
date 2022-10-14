@@ -1,5 +1,5 @@
 <?php
 
 return [
-    'site_title' => 'SMS',
+    'site_title' => 'LA ROSE',
 ];
